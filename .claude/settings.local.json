@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(node -e \"const lr = require\\('./node_modules/lucide-react/dist/esm/lucide-react.mjs'\\); console.log\\('version check'\\)\")"
+    ]
+  }
+}
